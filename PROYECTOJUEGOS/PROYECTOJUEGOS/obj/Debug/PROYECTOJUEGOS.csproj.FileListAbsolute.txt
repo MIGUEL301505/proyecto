@@ -1,0 +1,10 @@
+C:\Users\EDUARDO\Desktop\proyectos\PROYECTOJUEGOS\PROYECTOJUEGOS\bin\Debug\PROYECTOJUEGOS.exe.config
+C:\Users\EDUARDO\Desktop\proyectos\PROYECTOJUEGOS\PROYECTOJUEGOS\bin\Debug\PROYECTOJUEGOS.exe
+C:\Users\EDUARDO\Desktop\proyectos\PROYECTOJUEGOS\PROYECTOJUEGOS\bin\Debug\PROYECTOJUEGOS.pdb
+C:\Users\EDUARDO\Desktop\proyectos\PROYECTOJUEGOS\PROYECTOJUEGOS\obj\Debug\PROYECTOJUEGOS.csproj.AssemblyReference.cache
+C:\Users\EDUARDO\Desktop\proyectos\PROYECTOJUEGOS\PROYECTOJUEGOS\obj\Debug\PROYECTOJUEGOS.Form1.resources
+C:\Users\EDUARDO\Desktop\proyectos\PROYECTOJUEGOS\PROYECTOJUEGOS\obj\Debug\PROYECTOJUEGOS.Properties.Resources.resources
+C:\Users\EDUARDO\Desktop\proyectos\PROYECTOJUEGOS\PROYECTOJUEGOS\obj\Debug\PROYECTOJUEGOS.csproj.GenerateResource.cache
+C:\Users\EDUARDO\Desktop\proyectos\PROYECTOJUEGOS\PROYECTOJUEGOS\obj\Debug\PROYECTOJUEGOS.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDO\Desktop\proyectos\PROYECTOJUEGOS\PROYECTOJUEGOS\obj\Debug\PROYECTOJUEGOS.exe
+C:\Users\EDUARDO\Desktop\proyectos\PROYECTOJUEGOS\PROYECTOJUEGOS\obj\Debug\PROYECTOJUEGOS.pdb
